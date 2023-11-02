@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataHora.iml" filepath="$PROJECT_DIR$/DataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data-hora-java/DataHora/DataHora.iml" filepath="$PROJECT_DIR$/../data-hora-java/DataHora/DataHora.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package main;
+package convert;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-public class Programa {
+public class Main {
 
     public static void main(String[] args) {
         // Instanciação do agora

@@ -1,11 +1,11 @@
-package app;
+package data;
 
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 
-public class App {
+public class Main {
 
     public static void main(String[] args) {
         LocalDate localDate = LocalDate.parse("2023-11-02");

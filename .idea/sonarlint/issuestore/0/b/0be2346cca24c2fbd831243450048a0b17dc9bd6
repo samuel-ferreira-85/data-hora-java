@@ -1,0 +1,16 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(Ó³êœ
+@	java:S106"+Replace this use of System.out by a logger.(¥ÿÖ’
+E	java:S106"+Replace this use of System.out by a logger.(”ÛáËùÿÿÿÿ
+?	java:S106 "+Replace this use of System.out by a logger.(’Şü
+?	java:S106!"+Replace this use of System.out by a logger.(Ş†§	
+@	java:S106""+Replace this use of System.out by a logger.(ÿà‰ÿ
+@	java:S106#"+Replace this use of System.out by a logger.(‘³¥
+E	java:S106$"+Replace this use of System.out by a logger.(«ÆÅüüÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ú×°§ıÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(à’»–
+@	java:S106'"+Replace this use of System.out by a logger.(Âõİ¿
+@	java:S106("+Replace this use of System.out by a logger.(Æ¹ìğ
+@	java:S106)"+Replace this use of System.out by a logger.(ó’­Ş
+G
+java:S1128"1Remove this unused import 'java.time.ZoneOffset'.(ìÍÄË
